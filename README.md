@@ -1,12 +1,13 @@
-# Data Scientist
+# PhD Researcher
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, MATLAB, Embedded C, Assembly progrmming
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- Ph.D., Computing and Mathematics | South East Technological University (_2021- Ongoing_)								       		
+- M.Sc., Electronics Engineering	| Queens University Belfast (_October 2019_)	 			        		
+- B.E., Electronics | University of Mumbai (_August 2017_)
+- Dip., Digital Electronics | Mumbai University (_May 2014_)
+  
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
