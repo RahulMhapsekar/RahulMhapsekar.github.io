@@ -1,6 +1,6 @@
 # PhD Researcher
 
-#### Technical Skills: Python, MATLAB, Embedded C, Assembly progrmming
+#### Technical Skills: Python, MATLAB, Embedded C, Assembly programming
 
 ## Education
 - Doctor of Philosophy (Ph.D.), Computing and Mathematics | South East Technological University (_2021- 2025_)								       		
