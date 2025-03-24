@@ -3,19 +3,28 @@
 #### Technical Skills: Python, MATLAB, Embedded C, Assembly progrmming
 
 ## Education
-- Ph.D., Computing and Mathematics | South East Technological University (_2021- Ongoing_)								       		
+- Ph.D., Computing and Mathematics | South East Technological University (_2021- 2025_)								       		
 - M.Sc., Electronics Engineering	| Queens University Belfast (_October 2019_)	 			        		
 - B.E., Electronics | University of Mumbai (_August 2017_)
 - Dip., Digital Electronics | Mumbai University (_May 2014_)
   
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**PhD Researcher @ Vistamilk SFI Research Centre(_Jan 2021 - Jan 2025_)**
+- Leading research on the design and implementation of an Edge Based IoT platform for real-time monitoring and optimization in dairy processing.
+- Investigated optimal Edge configurations (e.g., NVIDIA Jetson Platform, Raspberry Pi, Arduino platform, STM) for industrial IoT applications, ensuring robustness and scalability in dairy production environments.
+- Developed edge AI solutions for predictive analytics, anomaly detection, and energy-efficient data processing at the network edge ensuring sustainability goals.
+- Worked towards advancing Industry 4.0 integration by deploying smart sensor systems for process automation, quality control, and data-driven decision-making in dairy manufacturing.
+- Collaborated with industry partners (VistaMilk, SFI) to align research outcomes with real-world challenges in agri-food tech and sustainable production.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Academic Supervisor @ South East Technological University (SETU), Ireland (_December 2021 - Present_)**
+- Supervised 20+ Bachelor’s and Master’s students in IoT, Computer Science, and Networks, guiding research, technical implementation, and thesis development.
+- Mentored students in project scoping, experimental design, and problem-solving for industry-relevant applications in wireless systems, embedded programming, and data analytics.
+- Provided structured feedback on research methodologies, code quality (Python/C++/Java/R), hardware integrations (Edge Devices), and academic writing.
+- Assessed and evaluated final project deliverables, ensuring adherence to academic standards while fostering innovation.
+
+**PhD Researcher @ Vistamilk SFI Research Centre(_Jan 2021 - Jan 2025_)**
+- Supervised 20+ Bachelor’s and Master’s students in IoT, Computer Science, and Networks, guiding research, technical implementation, and thesis development.
+- 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
