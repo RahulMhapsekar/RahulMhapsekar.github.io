@@ -63,4 +63,4 @@ Used **Matlab**
 5. Mhapsekar, R.U., Abraham, L., O'Shea, N. and Davy, S., 2022, December. Edge-AI implementation for milk adulteration detection. In 2022 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT) (pp. 108-113). IEEE.
 6. Abraham, L., Davy, S., Zawish, M., Mhapsekar, R., Finn, J.A. and Moran, P., 2022. Preliminary Classification of Selected Farmland Habitats in Ireland Using Deep Neural Networks. Sensors, 22(6), p.2190.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Photography Page] () 
