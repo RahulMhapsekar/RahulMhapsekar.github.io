@@ -22,9 +22,17 @@
 - Provided structured feedback on research methodologies, code quality (Python/C++/Java/R), hardware integrations (Edge Devices), and academic writing.
 - Assessed and evaluated final project deliverables, ensuring adherence to academic standards while fostering innovation.
 
-**PhD Researcher @ Vistamilk SFI Research Centre(_Jan 2021 - Jan 2025_)**
-- Supervised 20+ Bachelor’s and Master’s students in IoT, Computer Science, and Networks, guiding research, technical implementation, and thesis development.
-- 
+**Visiting Lecturer (Part-Time) @ Nanjing University of Information Science and Technology (NUIST), China(_Jan 2021 - Jan 2025_)**
+- Delivered two specialized modules—Introduction to Cloud Computing and Computer Systems 2—to undergraduate students.
+- Designed and conducted theoretical lectures alongside hands-on virtual lab sessions, ensuring a balanced approach to conceptual learning and practical implementation.
+- Developed course materials, including cloud computing fundamentals (AWS/Azure), distributed systems, and computer architecture principles.
+- Provided structured assessments, feedback, and mentorship to students, fostering engagement in a remote learning environment.
+
+**Project Engineer (IoT & Industry 4.0 Specialist) @ Optimman LTD, Northern Ireland (UK) (_Oct 2018 - Jan 2020_)**
+- Spearheaded IoT-based smart connectivity solutions for production and manufacturing clients across Europe, driving Industry 4.0 transformation through sensor networks, real-time monitoring, and predictive analytics.
+- Designed and deployed industrial automation systems, integrating PLCs (Siemens, Rockwell Automation), HMIs, and servo drives to optimize manufacturing efficiency and machine-to-machine (M2M) communication.
+- Collaborated with cross-functional teams and clients to translate operational challenges into scalable automation solutions, reducing downtime and improving OEE (Overall Equipment Effectiveness).
+- Lead system configuration, troubleshooting, and commissioning of industrial control systems, ensuring seamless interoperability between hardware and software layers.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
