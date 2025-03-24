@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, Embedded C, Assembly progrmming
 
 ## Education
-- Ph.D., Computing and Mathematics | South East Technological University (_2021- 2025_)								       		
+- Doctor of Philosophy (Ph.D.), Computing and Mathematics | South East Technological University (_2021- 2025_)								       		
 - M.Sc., Electronics Engineering	| Queens University Belfast (_October 2019_)	 			        		
 - B.E., Electronics | University of Mumbai (_August 2017_)
 - Dip., Digital Electronics | Mumbai University (_May 2014_)
